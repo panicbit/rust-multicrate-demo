@@ -1,0 +1,11 @@
+[root]
+name = "demo"
+version = "0.1.0"
+dependencies = [
+ "subdemo 0.1.0",
+]
+
+[[package]]
+name = "subdemo"
+version = "0.1.0"
+
